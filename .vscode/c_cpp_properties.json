@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "mbed-os/drivers/DigitalOut.h"
+            ]
+        }
+    ]
+}
